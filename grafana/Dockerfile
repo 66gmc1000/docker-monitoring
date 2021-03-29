@@ -1,4 +1,4 @@
-FROM grafana/grafana:5.4.3
+FROM grafana/grafana:latest
 
 LABEL author="Ian Ovenell <ian.ovenell@gmail.com>"
 LABEL version="1.0.0"

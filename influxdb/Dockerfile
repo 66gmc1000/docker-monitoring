@@ -1,4 +1,4 @@
-FROM influxdb:1.8
+FROM influxdb:latest
 
 LABEL author="Ian Ovenell <ian.ovenell@gmail.com>"
 LABEL version="1.0.0"
